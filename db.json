@@ -1,66 +1,143 @@
 {
   "guardian": [
     {
-      "nombre": "Pepe",
-      "apellidos": "Gonzalez",
-      "localidad": "arroyo",
-      "provincia": "valladolid",
-      "nacimiento": "01/01/1990",
-      "telefono": "642578307",
-      "email": "a@a.a",
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbiM41NMUHN6M2vhRmygFz_hbaGER3R4qGg&s",
-      "id": "kQH8gY9",
-      "teléfono": "699699699",
-      "numeroNiños": "1",
-      "edadesSeleccionadas": {
-        "bebe": true,
-        "pequeño": false,
-        "prescolar": false,
-        "escolar": false,
-        "adolescente": false
-      },
-      "serviciosSeleccionados": {
-        "cocinar": true,
-        "recogida": true,
-        "tareas": false,
-        "actividades": false,
-        "dormir": false
-      },
-      "diasSemana": {
-        "L": false,
-        "M": true,
-        "X": true,
-        "J": false,
-        "V": false,
-        "S": false,
-        "D": false
-      },
-      "horaInicio": "05:05",
-      "horaFin": "07:07",
-      "tarifa": 7,
-      "comentario": ""
-    },
-    {
-      "nombre": "Carlos",
-      "apellidos": "Matheus",
+      "nombre": "Luis",
+      "apellidos": "García",
       "localidad": "MADRID",
       "provincia": "MADRID",
-      "nacimiento": "2024-05-04",
-      "telefono": "642578590",
-      "email": "carlos@gmail.com",
-      "foto": "https://img.freepik.com/fotos-premium/retrato-hombre-joven-guapo_53876-38137.jpg",
-      "numeroNiños": "4",
+      "nacimiento": "1980-07-15",
+      "telefono": "612345678",
+      "email": "luis.garcia@example.com",
+      "foto": "https://plus.unsplash.com/premium_photo-1682096259050-361e2989706d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8am92ZW58ZW58MHx8MHx8fDA%3D",
+      "numeroNiños": "2",
       "edadesSeleccionadas": {
-        "bebe": false,
-        "pequeño": false,
-        "prescolar": false,
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
         "escolar": true,
         "adolescente": true
       },
       "serviciosSeleccionados": {
         "cocinar": true,
         "recogida": true,
-        "tareas": false,
+        "tareas": true,
+        "actividades": true,
+        "dormir": true
+      },
+      "diasSemana": {
+        "L": true,
+        "M": true,
+        "X": true,
+        "J": true,
+        "V": true,
+        "S": true,
+        "D": true
+      },
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
+      "tarifa": 20,
+      "comentario": "Tengo experiencia en el cuidado de niños en edad escolar y me encanta organizar actividades educativas y recreativas.",
+      "id": "Gf8JThg"
+    },
+    {
+      "nombre": "Anaa",
+      "apellidos": "Martínez",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "nacimiento": "1990-11-30",
+      "telefono": "622345678",
+      "email": "ana.martinez@example.com",
+      "foto": "https://st4.depositphotos.com/1000816/19759/i/450/depositphotos_197592490-stock-photo-closeup-photo-of-an-attractive.jpg",
+      "numeroNiños": "1",
+      "edadesSeleccionadas": {
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
+        "escolar": true,
+        "adolescente": true
+      },
+      "serviciosSeleccionados": {
+        "cocinar": true,
+        "recogida": true,
+        "tareas": true,
+        "actividades": true,
+        "dormir": true
+      },
+      "diasSemana": {
+        "L": true,
+        "M": true,
+        "X": true,
+        "J": true,
+        "V": true,
+        "S": true,
+        "D": true
+      },
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
+      "tarifa": 30,
+      "comentario": "Especializada en el cuidado de bebés, con formación en primeros auxilios y desarrollo infantil.",
+      "id": "Jk9LThh"
+    },
+    {
+      "nombre": "Pedro",
+      "apellidos": "López",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "nacimiento": "1975-03-20",
+      "telefono": "632345678",
+      "email": "pedro.lopez@example.com",
+      "foto": "https://www.shutterstock.com/image-photo/happy-confident-middle-aged-senior-260nw-2423355939.jpg",
+      "numeroNiños": "4",
+      "edadesSeleccionadas": {
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
+        "escolar": true,
+        "adolescente": true
+      },
+      "serviciosSeleccionados": {
+        "cocinar": true,
+        "recogida": true,
+        "tareas": true,
+        "actividades": true,
+        "dormir": true
+      },
+      "diasSemana": {
+        "L": true,
+        "M": true,
+        "X": true,
+        "J": true,
+        "V": true,
+        "S": true,
+        "D": true
+      },
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
+      "tarifa": 35,
+      "comentario": "Amplia experiencia en el cuidado de niños de todas las edades, con un enfoque en la educación y el desarrollo integral.",
+      "id": "Kl0MThi"
+    },
+    {
+      "nombre": "María",
+      "apellidos": "Fernández",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "nacimiento": "1985-05-10",
+      "telefono": "642345678",
+      "email": "maria.fernandez@example.com",
+      "foto": "https://hips.hearstapps.com/hmg-prod/images/home-corte-pelo-1633682625.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*",
+      "numeroNiños": "2",
+      "edadesSeleccionadas": {
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
+        "escolar": true,
+        "adolescente": true
+      },
+      "serviciosSeleccionados": {
+        "cocinar": true,
+        "recogida": true,
+        "tareas": true,
         "actividades": false,
         "dormir": false
       },
@@ -73,8 +150,47 @@
         "S": true,
         "D": true
       },
-      "horaInicio": "08:00",
-      "horaFin": "14:00",
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
+      "tarifa": 25,
+      "comentario": "Cuidadora dedicada con experiencia en la preparación de comidas saludables y en la realización de tareas del hogar.",
+      "id": "Lm1NThj"
+    },
+    {
+      "nombre": "Carlos",
+      "apellidos": "Matheus",
+      "localidad": "MADRID",
+      "provincia": "MADRID",
+      "nacimiento": "2024-05-04",
+      "telefono": "642578590",
+      "email": "carlos@gmail.com",
+      "foto": "https://img.freepik.com/fotos-premium/retrato-hombre-joven-guapo_53876-38137.jpg",
+      "numeroNiños": "4",
+      "edadesSeleccionadas": {
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
+        "escolar": true,
+        "adolescente": true
+      },
+      "serviciosSeleccionados": {
+        "cocinar": true,
+        "recogida": true,
+        "tareas": true,
+        "actividades": true,
+        "dormir": true
+      },
+      "diasSemana": {
+        "L": true,
+        "M": true,
+        "X": true,
+        "J": true,
+        "V": true,
+        "S": true,
+        "D": true
+      },
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
       "tarifa": "20",
       "comentario": "Trato especializado y certificados de saludss",
       "id": "yxQ53nc"
@@ -90,10 +206,10 @@
       "foto": "https://st3.depositphotos.com/1743476/16188/i/450/depositphotos_161885998-stock-photo-mature-mixed-race-man-smiling.jpg",
       "numeroNiños": "5",
       "edadesSeleccionadas": {
-        "bebe": false,
-        "pequeño": false,
-        "prescolar": false,
-        "escolar": false,
+        "bebe": true,
+        "pequeño": true,
+        "prescolar": true,
+        "escolar": true,
         "adolescente": true
       },
       "serviciosSeleccionados": {
@@ -104,16 +220,16 @@
         "dormir": true
       },
       "diasSemana": {
-        "L": false,
-        "M": false,
-        "X": false,
+        "L": true,
+        "M": true,
+        "X": true,
         "J": true,
         "V": true,
         "S": true,
         "D": true
       },
-      "horaInicio": "13:00",
-      "horaFin": "20:00",
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
       "tarifa": "25",
       "comentario": "Soy un guardián altamente capacitado y con amplia experiencia en el cuidado de niños y adolescentes. mas de 6 años de experiencia, he trabajado en hogares privados y centros de atención diurna . Mi enfoque se basa en la empatía, la paciencia y la comunicación efectiva, adaptándome a las necesidades individuales de cada peque.",
       "id": "VB_PAJR"
@@ -148,10 +264,10 @@
         "X": false,
         "J": true,
         "V": true,
-        "S": false,
+        "S": true,
         "D": true
       },
-      "horaInicio": "10:00",
+      "horaInicio": "18:00",
       "horaFin": "14:00",
       "tarifa": 17,
       "comentario": "Soy una cuidadora dedicada y apasionada con experiencia en el cuidado de niños y adolescentes. He trabajado durante más de 2 años en hogares privados y centros de atención diurna, donde he aprendido a crear un ambiente seguro y acogedor. Mi enfoque se basa en la empatía, la paciencia y la comunicación efectiva, adaptándome a las necesidades individuales de cada niño.",
@@ -190,8 +306,8 @@
         "S": false,
         "D": false
       },
-      "horaInicio": "09:00",
-      "horaFin": "15:00",
+      "horaInicio": "18:00",
+      "horaFin": "24:00",
       "tarifa": 25,
       "comentario": "Soy una cuidadora experimentada y compasiva con más de 15 años de trayectoria en el cuidado de niños y adolescentes. He trabajado en diversos entornos, incluyendo hogares privados y centros de atención diurna, donde he desarrollado habilidades para crear un ambiente seguro, acogedor y enriquecedor para los más jóvenes.",
       "id": "Hn7NThf"
@@ -279,6 +395,92 @@
       "telefono": "334dd34",
       "zip": "471s95",
       "guardianId": "abcd"
+    },
+    {
+      "niños": "1",
+      "edadNiño": {
+        "bebe": true,
+        "pequeño": false,
+        "prescolar": false,
+        "escolar": false,
+        "adolescente": false
+      },
+      "tareas": {
+        "cocinar": false,
+        "recogida": false,
+        "tareas": false,
+        "actividades": false,
+        "dormir": false,
+        "deberes": false,
+        "baño": false
+      },
+      "reservationWeek": {
+        "L": false,
+        "M": false,
+        "X": false,
+        "J": false,
+        "V": false,
+        "S": true,
+        "D": false
+      },
+      "reservationDay": "2024-10-05",
+      "reservationHour": "20:01",
+      "reservationTime": "2",
+      "nombre": "Alberto",
+      "apellidos": "Marcos",
+      "email": "amarcosarranz@gmail.com",
+      "direcion": "Calle Narciso Monturiol 10",
+      "piso": "Arroyo de la Encomienda",
+      "letra": "A",
+      "zip": "A",
+      "ciudad": "MADRID",
+      "poblacion": "MADRID",
+      "telefono": "699699699",
+      "guardianId": "Jk9LThh",
+      "id": "USdlR8O"
+    },
+    {
+      "niños": "1",
+      "edadNiño": {
+        "bebe": true,
+        "pequeño": false,
+        "prescolar": false,
+        "escolar": false,
+        "adolescente": false
+      },
+      "tareas": {
+        "cocinar": true,
+        "recogida": false,
+        "tareas": false,
+        "actividades": false,
+        "dormir": false,
+        "deberes": false,
+        "baño": false
+      },
+      "reservationWeek": {
+        "L": false,
+        "M": false,
+        "X": false,
+        "J": false,
+        "V": false,
+        "S": true,
+        "D": false
+      },
+      "reservationDay": "2024-10-05",
+      "reservationHour": "18:00",
+      "reservationTime": "2",
+      "nombre": "Pablo",
+      "apellidos": "García",
+      "email": "pablo@pablo.es",
+      "direcion": "calle Mayor 1 ",
+      "piso": "2",
+      "letra": "A",
+      "zip": "28002",
+      "ciudad": "MADRID",
+      "poblacion": "MADRID",
+      "telefono": "699699699",
+      "guardianId": "yxQ53nc",
+      "id": "wITRrbk"
     }
   ]
 }
